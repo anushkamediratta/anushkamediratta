@@ -1,4 +1,4 @@
-<<h1 align="center">Hi 👋, I'm Anushka Mediratta</h1>
+<h1 align="center">Hi 👋, I'm Anushka Mediratta</h1>
 <h3 align="center">A passionate developer from India</h3>
 <h4 align="center">Developing for the future, coding for impact</h4>
 
